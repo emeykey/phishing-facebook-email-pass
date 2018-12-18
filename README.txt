@@ -1,1 +1,1 @@
-Just copy those two into your web server and you're ready to go.
+Just copy those two onto your web server and you're ready to go.
