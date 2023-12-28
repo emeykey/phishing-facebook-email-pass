@@ -2,7 +2,7 @@
 #### Info
 - Frontend is 1:1 copy of US Facebook login page in english.
 - No external resources are being loaded, everything's stored locally.
-- Mobile broswer/screen scaling compatible.
+- Mobile browser/screen scaling compatible.
 - Copyright year generated dynamically.
 
 #### Install
