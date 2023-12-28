@@ -25,7 +25,7 @@
 - If you would to be to login to some account, use a residential proxy, not a basic VPN, preferably from the same country, otherwise the account will get locked behind a security checkpoint. Using the mobile app might also be a good idea, but of course don't use your personal phone.
 
 ###### Yeah and by the way it's illegal to actually use it on anyone without their consent, so keep that in mind and stay safe.
-###### All code and informations provided are for non-profit academical purposes only.
+###### All code and information provided are for non-profit academical purposes only.
 --
 ###### 2018-23
 ###### @emeykey
